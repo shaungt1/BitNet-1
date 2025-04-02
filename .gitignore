@@ -44,3 +44,4 @@ poetry.toml
 
 build/
 logs/
+bitnet-venv
