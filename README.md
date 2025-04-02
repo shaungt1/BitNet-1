@@ -1,4 +1,8 @@
 # bitnet.cpp
+
+**No Conda Required**
+> This Fork lets you run it without `conda`, you can run the startup script `setup.sh` and follow the instructions for virtual enviroment use by following the `1.INSTALL_VIRTUAL_ENV.md` and the `2.RUN_BITNET_MODELS.md`.
+
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 ![version](https://img.shields.io/badge/version-1.0-blue)
 
